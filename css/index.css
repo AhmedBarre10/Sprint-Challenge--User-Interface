@@ -420,3 +420,18 @@ background-color: darkorchid
 background-color: dodgerblue;
 
 }
+
+
+body{
+
+    background-color: white;
+    -webkit-animation-name: stretchanimation; /* Safari 4.0 - 8.0 */
+    -webkit-animation-duration: 4s; /* Safari 4.0 - 8.0 */
+    animation-name: stretchanimation;
+    animation-duration: 14s;
+}
+
+@keyframes stretchanimation {
+    from {background-color:white;}
+    to {background-color: yellow;}
+
