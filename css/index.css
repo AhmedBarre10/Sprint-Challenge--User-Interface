@@ -144,3 +144,224 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+
+.nav {
+
+    font-size: 20px;
+    text-decoration: none;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 1200px;
+    position: relative;
+    left: 160px;
+    bottom: 20px;
+}
+
+.navul a{
+text-decoration: none;
+margin-left: 5%;
+flex-direction: row;
+color: black;
+
+
+}
+
+.imgg {
+
+    position: relative;
+    right: 1px;
+    top: 20px;
+
+}
+
+.jumb{
+
+    padding-bottom: 20px;
+
+}
+
+.container2{
+
+position: relative;
+left: 500px;
+
+}
+
+.flexcont{
+
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    left: 500px;
+    width: 2900px;
+    top: 20px;
+}
+
+.pstrat{
+    font-size: 20px;
+    position: relative;
+    top:270px;
+    width: 300px;
+    right: 440px;
+}
+
+
+
+.flexcont2{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    left: 930px;
+    width: 2400px;
+    bottom: 220px;
+}
+
+.pstrat2{
+    font-size: 20px;
+    position: relative;
+    top:280px;
+    width: 300px;
+    right: 480px;
+}
+   
+    
+.strat1{
+
+    position: relative;
+    top: 240px;
+    right: 370px;
+    
+}
+
+
+.how{
+
+    position: relative;
+    top: 240px;
+    right: 370px;
+
+
+}
+
+.flexcontimages{
+
+display:flex;
+flex-direction: row;
+position: relative;
+left: 480px;
+padding-right: 10px;
+top: 30px;
+
+
+
+}
+.att1{
+    margin-right: 3%;
+
+}
+.para1{
+    font-size: 20px;
+    width: 300px;
+    position: relative;
+    left: 480px;
+    top: 40px;
+}
+
+.para2{
+    font-size: 20px;
+    width: 300px;
+    position: relative;
+    left: 910px;
+    bottom: 185px;
+    top:-150px;
+
+
+}
+
+.last{
+
+    font-size: 20px;
+    width:790px;
+    position: relative;
+    left: 470px;
+    padding-bottom: 2%;
+    bottom: 80px;
+    
+}
+
+ .footer2{
+
+   width: 900px;
+    position: relative;
+    left: 200px;
+}
+
+.learnml{
+
+    font-size: 30px;
+    border: 3px solid black;
+    background-color: ghostwhite;
+    color: black;
+    text-align: center;
+    border-radius: 15px;
+    width: 200px;
+    position: relative;
+    top: 60px;
+    right: 10px;
+}
+
+.learnmnl{
+
+    font-size: 30px;
+    border: 3px solid black;
+    background-color: ghostwhite;
+    color: black;
+    text-align: center;
+    border-radius: 15px;
+    width: 200px;
+    position: relative;
+    top: 60px;
+    right: 10px;
+}
+.learnm2{
+
+    font-size: 30px;
+    border: 3px solid black;
+    background-color: ghostwhite;
+    color: black;
+    text-align: center;
+    border-radius: 15px;
+    width: 200px;
+    position: relative;
+    top: 400px;
+    right: 790px;
+    height: 50px;
+   
+}
+
+.learnm1{
+
+    font-size: 30px;
+    border: 3px solid black;
+    background-color: ghostwhite;
+    color: black;
+    text-align: center;
+    border-radius: 15px;
+    width: 200px;
+    position: relative;
+    top: 400px;
+    right: 750px;
+    height: 50px;
+   
+}
+
+.abw{
+    position: relative;
+    right: 160px;
+
+
+
+}
